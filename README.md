@@ -1,1 +1,1 @@
-# Coursera-Courses-Introduction-to-Machine-Learning-and-EDA-for-ML-
+# Coursera-Course-1-EDA-for-ML-
